@@ -27,16 +27,12 @@ The project repository is available at the following links:
    ```
    cd Car-Detection
    ```
-3. **Install dependencies**:
-   ```
-   pip install -r requirements.txt
-   ```
-4. **Unzip the dataset**:
+3. **Unzip the dataset**:
    - Ensure `archive.zip` is unzipped in the same directory as the code files.
 
-5. **Run the main script**:
+4. **Run the main script**:
    ```
-   python main.py
+   Car Detection v2_Final.ipynb
    ```
 
 ## Outputs
